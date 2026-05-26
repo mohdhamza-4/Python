@@ -1,4 +1,4 @@
-# 📚 Book Management System (Python)
+# 📚 Book Management System 
 
 A simple console-based Book Management System built using Python.
 
